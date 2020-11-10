@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Image Slider</title>
+	<link href="style.css" type="text/css" rel="stylesheet" />
+	<meta charset="UTF-8">
+	meta name="viewport" content="width=device-width,initial-scale=1.0">
+  </head>
+ <body>
+   <div class="Slide-container">
+       <span id="slider-image-1"></span>
+	   <span id="slider-image-2"></span>
+
+
+	   <div class=""image-container">
+			<img src="C:\Users\91909\Desktop\project" class="slider-image">
+			<img src-"C:\Users\91909\Desktop\project" class="slider-image">
+        </div>
+        <div class="Button-container">
+		   <a href="#slider-image-1" class="slider-button"></a>
+		   <a href="#slider-image-2" class="slider-button"></a>
+
+		    
+   </div>
+ </body>
+<html>
